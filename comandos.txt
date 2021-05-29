@@ -1,0 +1,9 @@
+mvn spring-boot:run
+
+
+mvn clean
+mvn clean install
+mvn install
+mvn build
+
+git clone xxxx
